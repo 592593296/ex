@@ -1,0 +1,64 @@
+STemWin/Config/GUI_X_FreeRTOS.o: ../STemWin/Config/GUI_X_FreeRTOS.c \
+ D:/Ac6/project/read/read/STemWin/inc/GUI.h \
+ D:/Ac6/project/read/read/STemWin/inc/GUI_ConfDefaults.h \
+ D:/Ac6/project/read/read/STemWin/Config/GUIConf.h \
+ D:/Ac6/project/read/read/STemWin/inc/GUI_Type.h \
+ D:/Ac6/project/read/read/STemWin/inc/LCD.h \
+ D:/Ac6/project/read/read/STemWin/inc/Global.h \
+ D:/Ac6/project/read/read/STemWin/inc/GUI_Version.h \
+ D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h \
+ D:/Ac6/project/read/read/Inc/FreeRTOSConfig.h \
+ D:/Ac6/project/read/read/Inc/main.h \
+ D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h \
+ D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/portable.h \
+ D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h \
+ D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/portmacro.h \
+ D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h \
+ D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/task.h \
+ D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/list.h \
+ D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/timers.h \
+ D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/task.h \
+ D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/semphr.h \
+ D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+
+D:/Ac6/project/read/read/STemWin/inc/GUI.h:
+
+D:/Ac6/project/read/read/STemWin/inc/GUI_ConfDefaults.h:
+
+D:/Ac6/project/read/read/STemWin/Config/GUIConf.h:
+
+D:/Ac6/project/read/read/STemWin/inc/GUI_Type.h:
+
+D:/Ac6/project/read/read/STemWin/inc/LCD.h:
+
+D:/Ac6/project/read/read/STemWin/inc/Global.h:
+
+D:/Ac6/project/read/read/STemWin/inc/GUI_Version.h:
+
+D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h:
+
+D:/Ac6/project/read/read/Inc/FreeRTOSConfig.h:
+
+D:/Ac6/project/read/read/Inc/main.h:
+
+D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h:
+
+D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/portable.h:
+
+D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h:
+
+D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/portmacro.h:
+
+D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h:
+
+D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/task.h:
+
+D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/list.h:
+
+D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/timers.h:
+
+D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/task.h:
+
+D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/semphr.h:
+
+D:/Ac6/project/read/read/Middlewares/Third_Party/FreeRTOS/Source/include/queue.h:
